@@ -3,10 +3,10 @@ Prima asperienza : funzioni di correlazione per l'oscillaore armonico
   per azione.c che è la routine che serve a calcolare l'azione dell'oscillatore.
   
   Problema 1 : da dei warnings che però si possono togliere momentaneamente modificando il Makfile che si trova nella stessa cartella.
-  Ricorda che modificare il makefile non va bene, quindi bisogna trovare un'altra opzione.
+    Ricorda che modificare il makefile non va bene, quindi bisogna trovare un'altra opzione.
     
-  Problema 2 : bisogna imporre periodic bpundary conditions sul calcolo dell'azione: 
-    Giusti ha detto di usare l'operatpre in c: i+1%N
+  Problema 2 : bisogna imporre periodic boundary conditions sul calcolo dell'azione: 
+    Giusti ha detto di usare l'operatore in c: i+1%N
     
                                             (xx[i-1]%N-xx[i])*(xx[i-1]%N-xx[i]) 
                                             or
