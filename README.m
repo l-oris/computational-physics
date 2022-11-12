@@ -13,3 +13,9 @@ Prima asperienza : funzioni di correlazione per l'oscillaore armonico
                                             (i-1+N)%N
  Questa espressione serve a imporre che durante il ciclo for, presente nella routine azione.c, xx[N+1] = xx[0]                                     
     
+Per riassumere : nella prima esperienza abbiamo creato 3 fyle :
+in LFC/modules la routine azione.c
+in LFC/devel/montecarlo prova_azione (lo script per fare il check della routine azione.c)
+in LFC/include il file header azione.h (che mette in comunicazione prova_azione.c con la routine azione.c)
+
+Cheers ^.^
