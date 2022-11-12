@@ -1,4 +1,4 @@
-Prima asperienza : funzioni di correlazione per l'oscillaore armonico 
+Prima asperienza : funzioni di correlazione per l'oscillatore armonico
   Vai in LFC/devel/montecarlo e fai girare lo script prova_azione, è il check (contiene un main, ma non è un main program) 
   per azione.c che è la routine che serve a calcolare l'azione dell'oscillatore.
   
